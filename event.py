@@ -1,3 +1,7 @@
+#How many events do we have?
+#How many events do we have for each activity name?
+#How many cases do we have?
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
